@@ -6,7 +6,7 @@ on:
 
 jobs:
 
-  hello-job:
+  hellow-job:
     runs-on: ubuntu-latest
 
   steps:
